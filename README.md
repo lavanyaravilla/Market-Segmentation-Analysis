@@ -1,3 +1,4 @@
 # Market-Segmentation-Analysis
 Feynn Labs Service Fast Food Case study (McDonald 's)
-Aim of this project is to convert R codes into Python code 
+
+As a data science intern @ feynn Lab service this project aim  is to convert R codes into Python code 
